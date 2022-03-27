@@ -1,6 +1,5 @@
 _customer="BIGCORP BIGCROP ACME BIGCROP ZORK ZORK ABC BIGCROP ACME BIGCROP BIGCROP ZORK BIGCROP ZORK ZORK BIGCROP ACME BIGCROP ACME BIGCROP ACME LITTLECORP NADIRCORP"
 customers =_customer.split(" ")
-print(customers);
 totlen = len(customers)
 trade = 15/100 * totlen
 Activecus = {};
