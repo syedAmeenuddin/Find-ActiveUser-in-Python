@@ -1,5 +1,3 @@
-
-# Online Python - IDE, Editor, Compiler, Interpreter
 _customer="BIGCORP BIGCROP ACME BIGCROP ZORK ZORK ABC BIGCROP ACME BIGCROP BIGCROP ZORK BIGCROP ZORK ZORK BIGCROP ACME BIGCROP ACME BIGCROP ACME LITTLECORP NADIRCORP"
 customers =_customer.split(" ")
 print(customers);
