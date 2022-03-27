@@ -1,7 +1,8 @@
 # HackerRank_Py_Problem
 #HackerRank Coding challenge Solution using PYTHON
+# Find active customers using Python. 
 
-M institutional broker wants to review their book of customers to see which are most active. Given a list of trades by customer name, determine which customers account for at least 5% of the total number of trades. Order the list alphabetically ascending by name. 
+an institutional broker wants to review their book of customers to see which are most active. Given a list of trades by customer name, determine which customers account for at least 5% of the total number of trades. Order the list alphabetically ascending by name. 
 Example 
 n = 23 customers =['BIGCORP', 'BIGCROP', 'ACME', 'BIGCROP', 'ZORK', 'ZORK', 'ABC', 'BIGCROP', 'ACME', 'BIGCROP', 'BIGCROP', 'ZORK', 'BIGCROP', 'ZORK', 'ZORK', 'BIGCROP', 'ACME', 'BIGCROP', 'ACME', 'BIGCROP', 'ACME', 'LITTLECORP', 'NADIRCORP'].
 Bigcorp had 10 trades out of 23 which B43.48% of the total trades. Both Acme and Zork had 5 trades, which B 21.74% of the total trades. The Littlecorp, Nadir, and Abc had 1 trade each, which is 435% of the total trades. 
